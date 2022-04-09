@@ -1,0 +1,14 @@
+.header nav a{
+    text-decoration: none;
+    margin-right: 30px;
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+}
+.header nav a:hover{
+    color: goldenrod;
+    text-decoration: underline;
+}
+.header{
+    background-color: gainsboro;
+}
